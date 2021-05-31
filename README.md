@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 List of Songs:
 1. Always with Me (いつも何度でも, itsumo nando demo) - Wakako Kaku.
+2. One Summer's Day (あの夏へ, ano natsu e) - Joe Hisaishi.
