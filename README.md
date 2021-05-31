@@ -21,3 +21,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+List of Ghibli Songs:
+1. Always with Me (いつも何度でも, itsumo nando demo) - Wakako Kaku.
